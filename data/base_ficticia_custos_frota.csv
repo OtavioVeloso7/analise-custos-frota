@@ -1,0 +1,121 @@
+data,veiculo_id,tipo_veiculo,km_percorridos,categoria_manutencao,custo_manutencao_brl,litros_combustivel,cidade,status
+2026-03-17,V-002,Caminhão,3059,Pneus,743.63,376.2,Recife,Em andamento
+2026-10-27,V-013,Van,7883,Elétrica,1433.29,1398.9,Recife,Em andamento
+2026-10-06,V-014,Caminhão,2576,Óleo e filtros,301.71,222.0,Petrolina,Concluída
+2026-09-07,V-008,Carro,758,Óleo e filtros,570.08,69.4,Caruaru,Concluída
+2026-06-26,V-011,Caminhão,8764,Elétrica,1154.53,1541.5,Recife,Concluída
+2026-02-08,V-012,Caminhão,9754,Pneus,1066.81,1412.7,Recife,Concluída
+2026-04-11,V-014,Moto,2716,Elétrica,1406.41,369.2,Jaboatão dos Guararapes,Concluída
+2026-10-22,V-002,Moto,9766,Pneus,1907.10,1366.5,Recife,Concluída
+2026-02-05,V-004,Caminhão,8525,Pneus,1056.45,1293.4,Caruaru,Em andamento
+2026-09-03,V-011,Moto,5119,Preventiva,332.09,583.1,Caruaru,Em andamento
+2026-05-09,V-012,Van,1023,Preventiva,786.72,86.3,Caruaru,Concluída
+2026-04-27,V-005,Van,10171,Elétrica,675.40,1410.2,Olinda,Concluída
+2026-05-02,V-001,Caminhão,4717,Pneus,1133.21,515.3,Caruaru,Concluída
+2026-07-01,V-004,Van,5311,Elétrica,747.29,464.0,Petrolina,Concluída
+2026-10-06,V-001,Van,6722,Óleo e filtros,627.56,566.8,Caruaru,Em andamento
+2026-04-03,V-009,Caminhão,1071,Pneus,1481.17,103.3,Petrolina,Concluída
+2026-06-23,V-005,Caminhão,8182,Pneus,1133.13,814.3,Olinda,Concluída
+2026-09-12,V-011,Moto,8994,Óleo e filtros,648.35,757.1,Caruaru,Em andamento
+2026-01-17,V-009,Caminhão,3369,Freios,433.70,290.8,Olinda,Concluída
+2026-06-23,V-009,Carro,5186,Óleo e filtros,212.69,866.7,Recife,Concluída
+2026-03-27,V-009,Van,11711,Freios,1238.07,1555.3,Caruaru,Concluída
+2026-10-03,V-014,Caminhão,8037,Freios,1225.38,1157.7,Recife,Concluída
+2026-02-01,V-006,Van,9451,Óleo e filtros,568.83,1342.2,Caruaru,Concluída
+2026-04-17,V-011,Caminhão,9167,Freios,782.65,863.2,Petrolina,Em andamento
+2026-09-23,V-003,Caminhão,6439,Freios,411.89,798.7,Recife,Em andamento
+2026-03-10,V-006,Moto,8212,Óleo e filtros,235.77,966.3,Olinda,Em andamento
+2026-02-13,V-003,Moto,11629,Freios,566.41,1770.8,Caruaru,Em andamento
+2026-09-20,V-013,Carro,8317,Elétrica,1481.22,920.8,Petrolina,Em andamento
+2026-08-16,V-007,Moto,3239,Pneus,1712.56,484.6,Recife,Concluída
+2026-02-11,V-012,Caminhão,3108,Corretiva,774.24,290.3,Petrolina,Concluída
+2026-05-11,V-002,Carro,10172,Corretiva,1845.76,1111.8,Jaboatão dos Guararapes,Em andamento
+2026-03-30,V-004,Moto,9276,Preventiva,810.94,1475.4,Jaboatão dos Guararapes,Concluída
+2026-10-05,V-013,Van,1068,Freios,1011.47,94.9,Recife,Em andamento
+2026-01-28,V-012,Van,3477,Elétrica,1623.19,640.7,Petrolina,Concluída
+2026-03-13,V-012,Carro,4967,Elétrica,1743.20,613.3,Olinda,Em andamento
+2026-03-01,V-001,Caminhão,8103,Elétrica,745.48,1053.8,Petrolina,Concluída
+2026-03-23,V-014,Moto,8117,Óleo e filtros,649.68,1093.9,Jaboatão dos Guararapes,Em andamento
+2026-06-15,V-002,Carro,8649,Elétrica,1523.80,832.5,Olinda,Em andamento
+2026-02-08,V-003,Van,6382,Corretiva,1160.32,1208.2,Recife,Em andamento
+2026-04-17,V-008,Van,10046,Pneus,1624.86,903.5,Jaboatão dos Guararapes,Concluída
+2026-02-17,V-008,Carro,5954,Corretiva,3479.53,753.0,Caruaru,Em andamento
+2026-06-19,V-013,Van,5000,Elétrica,1414.87,760.7,Olinda,Concluída
+2026-10-21,V-006,Carro,8630,Freios,1786.00,970.5,Caruaru,Concluída
+2026-09-01,V-007,Van,10707,Elétrica,1596.63,1518.0,Caruaru,Concluída
+2026-02-15,V-001,Caminhão,2775,Freios,1068.54,291.3,Caruaru,Concluída
+2026-01-15,V-009,Caminhão,10343,Pneus,1351.52,865.4,Jaboatão dos Guararapes,Em andamento
+2026-03-05,V-014,Van,4162,Corretiva,3124.33,396.2,Jaboatão dos Guararapes,Concluída
+2026-04-22,V-002,Carro,10623,Óleo e filtros,394.70,937.9,Jaboatão dos Guararapes,Em andamento
+2026-02-09,V-007,Van,2691,Elétrica,871.06,224.7,Jaboatão dos Guararapes,Concluída
+2026-01-31,V-001,Moto,1976,Elétrica,1675.52,207.4,Olinda,Concluída
+2026-01-17,V-005,Moto,5475,Corretiva,711.66,614.9,Olinda,Concluída
+2026-01-19,V-014,Carro,11724,Freios,1640.72,1124.8,Jaboatão dos Guararapes,Concluída
+2026-02-08,V-009,Caminhão,8411,Pneus,1040.63,906.2,Olinda,Em andamento
+2026-10-04,V-005,Carro,6021,Elétrica,1975.79,645.3,Olinda,Concluída
+2026-08-22,V-013,Moto,9126,Pneus,1470.02,922.7,Jaboatão dos Guararapes,Concluída
+2026-02-23,V-013,Van,4448,Pneus,1294.35,502.4,Petrolina,Concluída
+2026-06-04,V-005,Caminhão,5025,Óleo e filtros,248.21,765.3,Caruaru,Em andamento
+2026-02-19,V-011,Moto,7526,Pneus,1729.73,963.1,Caruaru,Concluída
+2026-03-14,V-009,Moto,584,Óleo e filtros,233.12,57.8,Recife,Em andamento
+2026-10-05,V-004,Moto,3211,Elétrica,731.28,543.5,Caruaru,Concluída
+2026-05-16,V-003,Moto,1968,Corretiva,2721.77,172.9,Petrolina,Concluída
+2026-09-19,V-009,Caminhão,10714,Elétrica,1095.46,1219.2,Recife,Concluída
+2026-03-19,V-013,Carro,9460,Freios,530.81,995.9,Petrolina,Concluída
+2026-09-02,V-007,Caminhão,6774,Corretiva,3273.20,625.3,Jaboatão dos Guararapes,Em andamento
+2026-08-16,V-012,Caminhão,6135,Pneus,2031.34,896.0,Recife,Em andamento
+2026-02-16,V-004,Caminhão,6611,Óleo e filtros,575.83,1131.0,Jaboatão dos Guararapes,Concluída
+2026-05-18,V-009,Caminhão,8987,Pneus,1597.38,1103.6,Jaboatão dos Guararapes,Em andamento
+2026-04-12,V-011,Van,4441,Óleo e filtros,378.96,395.4,Petrolina,Concluída
+2026-06-09,V-001,Carro,8973,Corretiva,1359.41,1418.1,Jaboatão dos Guararapes,Concluída
+2026-05-04,V-005,Carro,10675,Óleo e filtros,324.19,1073.7,Petrolina,Concluída
+2026-09-01,V-007,Moto,8561,Elétrica,1510.30,1172.3,Olinda,Concluída
+2026-06-05,V-006,Caminhão,2397,Pneus,1966.52,331.2,Olinda,Em andamento
+2026-03-18,V-010,Caminhão,4266,Corretiva,2180.03,375.0,Caruaru,Em andamento
+2026-07-31,V-005,Caminhão,2415,Corretiva,2801.60,209.2,Caruaru,Concluída
+2026-10-04,V-003,Moto,956,Elétrica,839.46,105.5,Olinda,Em andamento
+2026-04-28,V-002,Carro,1361,Pneus,2350.20,155.9,Petrolina,Concluída
+2026-02-19,V-012,Carro,10207,Freios,634.12,910.2,Petrolina,Concluída
+2026-06-10,V-007,Van,4372,Elétrica,846.54,672.2,Petrolina,Concluída
+2026-08-09,V-001,Moto,3763,Óleo e filtros,199.92,374.8,Recife,Em andamento
+2026-06-18,V-012,Van,9109,Preventiva,710.12,1358.3,Olinda,Concluída
+2026-02-06,V-014,Carro,3195,Freios,1578.77,323.1,Caruaru,Concluída
+2026-03-18,V-012,Carro,11696,Pneus,890.51,1757.7,Petrolina,Em andamento
+2026-04-14,V-007,Carro,11925,Elétrica,2163.38,1531.0,Caruaru,Concluída
+2026-03-29,V-005,Van,1791,Óleo e filtros,247.47,210.3,Olinda,Em andamento
+2026-04-07,V-009,Carro,7226,Elétrica,1612.73,1205.1,Petrolina,Concluída
+2026-08-01,V-006,Moto,3946,Preventiva,890.56,591.1,Olinda,Concluída
+2026-10-12,V-002,Carro,3167,Pneus,1745.25,631.4,Petrolina,Concluída
+2026-09-20,V-009,Carro,3868,Preventiva,298.88,334.1,Recife,Em andamento
+2026-05-28,V-010,Carro,10550,Freios,764.32,1913.8,Caruaru,Concluída
+2026-10-18,V-002,Carro,9101,Corretiva,2725.98,1343.7,Recife,Concluída
+2026-03-04,V-012,Caminhão,2963,Óleo e filtros,524.62,519.2,Olinda,Em andamento
+2026-02-16,V-015,Moto,10817,Elétrica,1363.22,1222.5,Olinda,Concluída
+2026-05-27,V-009,Carro,5222,Corretiva,1384.28,513.5,Petrolina,Concluída
+2026-02-24,V-002,Moto,8642,Preventiva,526.20,842.2,Jaboatão dos Guararapes,Concluída
+2026-06-14,V-010,Van,11548,Corretiva,641.45,1983.0,Olinda,Concluída
+2026-06-01,V-007,Moto,10689,Elétrica,434.30,1176.7,Petrolina,Concluída
+2026-04-30,V-007,Caminhão,10968,Freios,774.57,1164.6,Recife,Concluída
+2026-10-08,V-009,Caminhão,4459,Óleo e filtros,393.78,556.3,Caruaru,Concluída
+2026-01-31,V-012,Caminhão,884,Elétrica,1951.37,79.8,Olinda,Concluída
+2026-07-04,V-002,Van,6924,Pneus,1221.51,899.6,Olinda,Concluída
+2026-06-21,V-014,Caminhão,5231,Elétrica,315.44,888.4,Caruaru,Concluída
+2026-07-03,V-009,Van,7701,Corretiva,2333.37,1414.1,Recife,Concluída
+2026-05-06,V-015,Carro,8372,Pneus,1164.21,759.3,Olinda,Em andamento
+2026-09-19,V-001,Caminhão,5250,Elétrica,371.65,776.3,Recife,Em andamento
+2026-03-04,V-004,Caminhão,6096,Corretiva,522.39,769.9,Jaboatão dos Guararapes,Concluída
+2026-07-27,V-006,Van,11538,Óleo e filtros,575.97,1225.7,Olinda,Concluída
+2026-01-28,V-012,Carro,11916,Elétrica,1133.31,1410.9,Recife,Concluída
+2026-03-10,V-009,Van,10833,Óleo e filtros,477.43,1144.5,Petrolina,Em andamento
+2026-04-24,V-009,Moto,5680,Elétrica,732.94,665.6,Olinda,Em andamento
+2026-10-20,V-004,Moto,1235,Óleo e filtros,261.02,196.8,Olinda,Em andamento
+2026-09-28,V-005,Caminhão,9903,Freios,586.80,1130.8,Petrolina,Em andamento
+2026-09-06,V-015,Van,4225,Pneus,972.11,601.1,Recife,Concluída
+2026-07-12,V-002,Caminhão,6444,Pneus,1542.95,921.9,Olinda,Concluída
+2026-01-24,V-008,Moto,11764,Pneus,1064.91,1969.3,Petrolina,Em andamento
+2026-02-27,V-001,Caminhão,7980,Elétrica,1319.26,891.5,Caruaru,Concluída
+2026-08-06,V-013,Caminhão,5568,Corretiva,1091.40,938.9,Recife,Em andamento
+2026-07-12,V-015,Caminhão,1782,Óleo e filtros,558.91,152.2,Recife,Concluída
+2026-09-10,V-011,Moto,4555,Freios,491.26,385.4,Caruaru,Concluída
+2026-06-10,V-012,Carro,8395,Corretiva,3063.90,1339.5,Olinda,Concluída
+2026-06-19,V-008,Caminhão,5823,Freios,1443.16,487.2,Jaboatão dos Guararapes,Em andamento
